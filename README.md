@@ -26,3 +26,12 @@ add in package.json of root<br>
 
 cd client <br>
 [ npm i bootstrap reactstrap uuid react-transition-group ]
+
+
+<h1>Implementing Redux</h1>
+from root <br>
+[ cd client ]
+
+[ npm i redux react-redux redux-thunk ]
+
+use Redux DevTools
